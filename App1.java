@@ -5,6 +5,7 @@ public class App1 {
         System.out.println("New changes...");
         System.out.println("==================================");
         System.out.println("CHANGE?");
+        System.out.println("==================================");
         System.out.println("build from github hooks");
     }
 }
